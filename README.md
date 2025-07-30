@@ -11,8 +11,8 @@ Additionally, the repository includes two SQLite databases:
   faculty_engg_inf.db
 
 Each notebook follows this general pattern:
-Web Scraping – Fetch data from departmental web pages.
-Data Cleaning – Parse HTML, extract details (e.g. name, department, email), clean and structure.
+Web Scraping – Fetch data from departmental web pages.//
+Data Cleaning – Parse HTML, extract details (e.g. name, department, email), clean and structure.//
 Storage – Save cleaned data into .db SQLite databases.
 EDA – Storage in Pandas data frame for visualizations and statitical analysis (Matplotlib, Seaborn).
 Insights – Summarize findings about research areas, positions held, awards, education etc.
